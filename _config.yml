@@ -1,7 +1,7 @@
 name: Adams Studios Inc.
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.36412
+typography_spectrum: 0.5361
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#291612'
+    - '#4c2d2a'
+    - '#7e5a5e'
+    - '#8d756b'
   brandStrength: 0.5140648663509637
   lightness: 0.6278690041508526
-  saturation: 0.6132321828044951
+  saturation: 0.75
   rhythmicContrast: 0.5332182752899826
 purpose: []
